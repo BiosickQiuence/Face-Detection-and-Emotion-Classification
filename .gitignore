@@ -1,0 +1,7 @@
+venv/
+.idea/
+__pycache__/
+images/
+*.mp4
+*.mp4v
+*.zip
